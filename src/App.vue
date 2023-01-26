@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Generate inference</h1>
+    <h1>Generate Model inference</h1>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
