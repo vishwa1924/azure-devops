@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Generate ML inference</h1>
+    <h1>Generate ML-MODEL inference</h1>
 	<h2>Upload your data to make to ge predections</h2>
     <img
       alt="Vue logo"
